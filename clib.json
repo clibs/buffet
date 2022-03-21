@@ -1,0 +1,11 @@
+{
+  "name": "buffet",
+  "version": "main",
+  "repo": "alcover/buffet",
+  "license": "GPL",
+  "src": [
+    "src/buffet.c",
+    "src/buffet.h",
+    "src/log.h"
+  ]
+}
